@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é Rafael de Padua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-  <a href="https://github.com/RfaelPadua"><img src="https://readme-typing-svg.herokuapp.com?font=new+times+roman&pause=1000&color=C8BE25&repeat=false&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o"></a>
+  <a href="https://github.com/RfaelDePadua"><img src="https://readme-typing-svg.herokuapp.com?font=new+times+roman&pause=1000&color=C8BE25&repeat=false&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o"></a>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
@@ -27,7 +27,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Vamos nos conectar
 <p align="center">
-	<a href="https://github.com/RfaelPadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
+	<a href="https://github.com/RfaelDePadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" target="_blank" width="48" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rfaelpadua"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/raf_padua/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="48" alt="Instagram"/></a>
 </p>
